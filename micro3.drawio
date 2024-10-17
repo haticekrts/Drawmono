@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Sayfa -1" id="d_vw_4rTWSpH50QPB_qt">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="60" height="47.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.05;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o-1FiU2Sk1T6LIwUC7L5-1" target="o-1FiU2Sk1T6LIwUC7L5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="239.7" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-5" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="344.44" y="70" width="111.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.078;entryY=0.955;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="o-1FiU2Sk1T6LIwUC7L5-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="239.7" as="sourcePoint" />
+            <mxPoint x="189" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.868;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="o-1FiU2Sk1T6LIwUC7L5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="153" as="sourcePoint" />
+            <mxPoint x="270" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="678" y="360" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="678" y="260" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-11" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="678" y="180" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="678" y="460" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-17" value="JWT" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-1FiU2Sk1T6LIwUC7L5-18" value="User Service" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
