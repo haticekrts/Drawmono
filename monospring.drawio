@@ -14,10 +14,16 @@
           <mxGeometry x="122.95" y="230" width="87.05" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EQRqfBlei0hE9X0uSdg--6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="50" height="50" as="geometry" />
+          <mxGeometry x="200" y="160" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EQRqfBlei0hE9X0uSdg--9" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="470" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EQRqfBlei0hE9X0uSdg--10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EQRqfBlei0hE9X0uSdg--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="72.95" y="280" as="sourcePoint" />
+            <mxPoint x="122.95" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
